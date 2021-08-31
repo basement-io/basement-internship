@@ -1,5 +1,6 @@
-import styles from './App.module.scss';
-import BasementInternship from './components/BasementInternship';
+import BasementInternship from "./components/BasementInternship";
+
+import styles from "./styles/App.module.scss";
 
 function App() {
   return (

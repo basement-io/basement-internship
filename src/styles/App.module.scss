@@ -1,0 +1,19 @@
+.app {
+  padding: 2rem;
+
+  background-color: #ffffff;
+
+  border-radius: 8px;
+  box-shadow: 0 10px 30px 10px rgba(0, 70, 60, 0.05);
+
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  > h1 {
+    color: #484848;
+
+    margin-bottom: 1.5rem;
+  }
+}
